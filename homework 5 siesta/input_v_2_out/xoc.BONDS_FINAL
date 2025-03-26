@@ -1,0 +1,16 @@
+Neighbors of:     1 O at:  -2.0233 -2.0296  0.0099
+    4 H                     1.4184  Ang. Really at:  -0.4281 -0.1533 -1.0480
+    2 O                     2.3847  Ang. Really at:   0.8756  1.4206  0.0009
+    3 H                     3.0498  Ang. Really at:   0.5341  3.0521  0.9322
+Neighbors of:     2 O at:   0.8756  1.4206  0.0009
+    3 H                     1.0104  Ang. Really at:   0.5341  3.0521  0.9322
+    4 H                     1.2156  Ang. Really at:  -0.4281 -0.1533 -1.0480
+    1 O                     2.3847  Ang. Really at:  -2.0233 -2.0296  0.0099
+Neighbors of:     3 H at:   0.5341  3.0521  0.9322
+    2 O                     1.0104  Ang. Really at:   0.8756  1.4206  0.0009
+    4 H                     2.0578  Ang. Really at:  -0.4281 -0.1533 -1.0480
+    1 O                     3.0498  Ang. Really at:  -2.0233 -2.0296  0.0099
+Neighbors of:     4 H at:  -0.4281 -0.1533 -1.0480
+    2 O                     1.2156  Ang. Really at:   0.8756  1.4206  0.0009
+    1 O                     1.4184  Ang. Really at:  -2.0233 -2.0296  0.0099
+    3 H                     2.0578  Ang. Really at:   0.5341  3.0521  0.9322
